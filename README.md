@@ -1,6 +1,6 @@
 
 # BABER ARJUMAND 
-baber.arjumand@gmail.com | [baber.dev](https://baber.dev) | [LinkedIn](https://linkedin.com/in/baberarjumand) | [GitHub](https://github.com/baberarjumand)  
+baber.arjumand@gmail.com | [baber.dev](https://baber.dev) | [LinkedIn](https://linkedin.com/in/baberarjumand) | [Resume](https://resume.baber.dev) | [GitHub](https://github.com/baberarjumand)  
 ### FRONTEND DEVELOPER | SOFTWARE ENGINEER  
 --- 
 
