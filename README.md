@@ -1,7 +1,7 @@
 
 # BABER ARJUMAND 
 baber.arjumand@gmail.com | [baber.dev](https://baber.dev) | [LinkedIn](https://linkedin.com/in/baberarjumand) | [Resume](https://resume.baber.dev) | [GitHub](https://github.com/baberarjumand)  
-### FRONTEND DEVELOPER | SOFTWARE ENGINEER  
+### EXPERIENCED FRONTEND DEVELOPER | UI/UX ENGINEER | SOFTWARE ENGINEER  
 --- 
 
 **PROFESSIONAL SUMMARY**
