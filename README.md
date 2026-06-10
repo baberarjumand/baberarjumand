@@ -1,24 +1,16 @@
 
-# BABER ARJUMAND 
-baber.arjumand@gmail.com | [baber.dev](https://baber.dev) | [LinkedIn](https://linkedin.com/in/baberarjumand) | [Resume](https://resume.baber.dev) | [GitHub](https://github.com/baberarjumand)  
-### EXPERIENCED FRONTEND DEVELOPER | UI/UX ENGINEER | SOFTWARE ENGINEER  
---- 
-
-**PROFESSIONAL SUMMARY**
-Versatile Software Engineer with 6+ years’ experience in high-performance web & mobile apps. Expert in **React**, **Angular**, **Node.js**; architected scalable systems, led cross-functional teams, and delivered pixel-perfect, user-centric digital experiences. Skilled in **Web3 integrations**, **FinTech authentication solutions**, **Ionic** cross-platform mobile dev. Background in **Electronic & Computer Engineering**.  
+# baber_arjumand
+[baber.dev](https://baber.dev) | [LinkedIn](https://linkedin.com/in/baberarjumand) | [GitHub](https://github.com/baberarjumand) | baber.arjumand@gmail.com
+### dev_full-stack | engineer_software  
 
 ---
-**TECHNICAL SKILLS**
+**skills_dev**
 
-**Frontend:** React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS, Material UI, SCSS, Jotai, Zustand, Tanstack Query, Tanstack Router
+**frontend:** react/next.js, angular
 
-**Backend:** Node.js, Express, NestJS, Python, Parse Framework, RESTful APIs
+**backend:** node.js, express
 
-**Mobile:** Ionic, Capacitor, PWAs, Android & iOS
-
-**Cloud/DB:** AWS (Amplify, EC2, S3), Firebase, Heroku, PostgreSQL, MongoDB, ArangoDB, Mongoose, Firestore
-
-**Tools/Web3:** Claude Code, Git, Docker, Datadog, Figma, Wagmi, Ethers, WalletConnect, Blockchain Data Scraping
+**mobile:** ionic, capacitor
 
 ---
 
