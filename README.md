@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/baberarjumand/"><img src="https://img.shields.io/badge/linkedin-baberarjumand-0d1117?style=for-the-badge" alt="linkedin" /></a>
   <a href="mailto:baber.arjumand@gmail.com"><img src="https://img.shields.io/badge/mail-baber.arjumand%40gmail.com-0d1117?style=for-the-badge" alt="email" /></a>
   <a href="https://cursor.com/@baberarjumand"><img src="https://img.shields.io/badge/cursor-@baberarjumand-0d1117?style=for-the-badge" alt="cursor" /></a>
+  <a href="https://skills.sh/baberarjumand" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SKILLS.SH-baberarjumand-0d1117?style=for-the-badge" alt="skills.sh" /></a>
 </p>
 
 ---
@@ -59,7 +60,7 @@ baber.uses.forEach((tool) => console.log(`>> loading ${tool} ... ok`));
 baber.ai.forEach((agent) => console.log(`>> pairing ${agent} ... ok`));
 ```
 
-I ship web UIs for a living and tinker with little worlds on the side. Chronology lives on [LinkedIn](https://www.linkedin.com/in/baberarjumand/) — this page is the terminal.
+I ship software for a living and tinker with little worlds on the side. Chronology lives on [LinkedIn](https://www.linkedin.com/in/baberarjumand/) — this page is the terminal.
 
 ---
 
