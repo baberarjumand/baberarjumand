@@ -13,7 +13,7 @@
 +  ║   link   : jacked in  ·  remote since 2019           ║
 +  ║   langs  : typescript · javascript · python          ║
 +  ║   tools  : next · react · angular · express · node   ║
-+  ║   ai     : cursor · claude                           ║
++  ║   ai     : cursor · claude · gemini                  ║
 +  ║                                                      ║
 +  ║   while (!shipped) { build(); debug(); repeat(); }   ║
 +  ║                                                      ║
@@ -42,10 +42,10 @@ const baber = {
   remote: true, // since 2019
   writes: ["TypeScript", "JavaScript", "Python"],
   uses: ["Next.js", "React", "Angular", "Express", "Node.js"],
-  ai: ["Cursor", "Claude"],
+  ai: ["Cursor", "Claude", "Gemini"],
   nowPlaying: {
     product: "https://qaari.net", // 1:1 Quran teachers on the web
-    editor: "https://cursor.com/@baberarjumand",
+    editor: "cursor, claude-code, antigravity, vscode",
     games: [
       "https://steamcommunity.com/id/baberarjumand/",
       "https://retroachievements.org/user/nexus91110",
@@ -75,7 +75,7 @@ mission: >
   find a private Quran teacher (kids or adults, Zoom / Meet)
   without the spreadsheet energy
 uptime: fully remote
-editor: Cursor
+editor: Cursor, Claude Code, Antigravity, VS Code
 side_quests:
   - steam
   - retroachievements
@@ -105,12 +105,12 @@ side_quests:
 ## `├── /inventory`
 
 ```diff
-+  [#############.....]  TypeScript / JavaScript
-+  [#############.....]  React / Next.js
-+  [##############....]  HTML / CSS / Tailwind
-+  [############......]  Angular / Ionic
-+  [############......]  Node / Express / NestJS
-+  [###########.......]  Firebase / PostgreSQL / MongoDB
++  [###############...]  TypeScript / JavaScript
++  [###############...]  React / Next.js
++  [################..]  HTML / CSS / Tailwind
++  [##############....]  Angular / Ionic
++  [###############...]  Node / Express / NestJS
++  [##############....]  Firebase / PostgreSQL / MongoDB
 +  [denied............]  pretending to main Go, Vue, or React Native
 ```
 
