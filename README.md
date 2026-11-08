@@ -13,7 +13,7 @@
 +  ║   link   : jacked in  ·  remote since 2019           ║
 +  ║   langs  : typescript · javascript · python          ║
 +  ║   tools  : next · react · angular · express · node   ║
-+  ║   ai     : cursor · claude · gemini                  ║
++  ║   ai     : cursor · claude · gemini · ollama · qwen  ║
 +  ║                                                      ║
 +  ║   while (!shipped) { build(); debug(); repeat(); }   ║
 +  ║                                                      ║
@@ -42,7 +42,7 @@ const baber = {
   remote: true, // since 2019
   writes: ["TypeScript", "JavaScript", "Python"],
   uses: ["Next.js", "React", "Angular", "Express", "Node.js"],
-  ai: ["Cursor", "Claude", "Gemini"],
+  ai: ["Cursor", "Claude", "Gemini", "Ollama", "Qwen"],
   nowPlaying: {
     product: "https://qaari.net", // 1:1 Quran teachers on the web
     editor: "cursor, claude-code, antigravity, vscode",
