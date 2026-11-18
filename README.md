@@ -8,21 +8,23 @@
 +  ║   ██████╔╝██║  ██║██████╔╝███████╗██║  ██║              ║
 +  ║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝              ║
 +  ║                                                         ║
+-  ║                                                         ║
 +  ║   handle   : baberarjumand                              ║
 +  ║   node     : islamabad // pk                            ║
 +  ║   link     : baberarjumand.com · baber.dev              ║
-+  ║                                                         ║
+-  ║                                                         ║
 +  ║   mode     : full-stack web dev · software engineer     ║
 +  ║   langs    : typescript · javascript · python           ║
-+  ║                                                         ║
+-  ║                                                         ║
 +  ║   frontend : next · react · angular · html · css        ║
 +  ║   backend  : express · nestjs · parse · node            ║
-+  ║                                                         ║
+-  ║                                                         ║
 +  ║   database : mongodb · firestore · postgres             ║
 +  ║   cloud    : supabase · firebase · vercel · aws         ║
-+  ║                                                         ║
+-  ║                                                         ║
 +  ║   llm      : claude · gemini · qwen                     ║
 +  ║   ide      : cursor · antigravity · vscode              ║
+-  ║                                                         ║
 +  ║                                                         ║
 +  ║   while (!shipped) {                                    ║
 +  ║       build();                                          ║
